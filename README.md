@@ -25,9 +25,10 @@ An encoded vector is returned with a length of the entire vocabulary and an inte
 5)	 We next perform the test train split in the ratio of 70:30, we select the samples randomly.
 6)	We feed the X_train, X_test, y_train, y_test to different ML models namely, Multinomial naïve bayes, Support vector machines, K nearest neighbours.
  
-Comparison of Outputs:   
+ Comparison of Outputs:   
 
 Results obtained by our implemented models:
+
 Unique values in the Class set:  ['ham' 'spam']
 Number of ham messages in data set: 4825
 Ham Count value 272
